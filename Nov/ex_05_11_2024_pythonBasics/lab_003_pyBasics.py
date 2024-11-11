@@ -1,0 +1,1 @@
+print("chumki", 123,"bappa","kuchu sona")
